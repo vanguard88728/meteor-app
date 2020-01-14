@@ -23,7 +23,7 @@
   "devDependencies": {
     "enzyme": "^2.2.0",
     "jsdom": "^8.0.4",
-    "eslint": "2.7.x",
+    "eslint": "6.8.x",
     "eslint-plugin-react": "4.3.x",
     "babel-core": "6.x.x",
     "babel-plugin-react-require": "2.x.x",
